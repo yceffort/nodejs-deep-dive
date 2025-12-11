@@ -8,7 +8,7 @@
 
 ## Chapter 1. Node.js 아키텍처 (The Core)
 
-### 1-1. V8 엔진 심층 분석: Bytecode 컴파일과 인라인 캐싱(Inline Caching)
+### [1-1. V8 엔진 심층 분석: Bytecode 컴파일과 인라인 캐싱(Inline Caching)](./posts/part1/1-1.V8_엔진_심층_분석.md)
 
 ### 1-2. libuv와 비동기 I/O: 커널(Kernel)과 스레드 풀의 협업
 
