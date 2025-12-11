@@ -1,0 +1,21 @@
+version: 1
+rules:
+  # 일반적인 용어 통일
+  - expected: 메서드
+    pattern: 메소드
+  - expected: 리팩터링
+    pattern: 리팩토링
+  - expected: 바이너리
+    pattern: 이진
+  - expected: 저장소
+    patterns:
+      - 레파지토리
+      - 레포지토리
+
+  # 자주 하는 오타
+  - expected: 께
+    pattern: 꼐
+  - expected: 때
+    pattern: 떄
+  - expected: ''
+    pattern: �
